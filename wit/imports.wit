@@ -1,0 +1,5 @@
+package peter-jerry-ye:spin-imports;
+
+world imports {
+  include fermyon:spin/platform@2.0.0;
+}
